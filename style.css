@@ -1,0 +1,36 @@
+p {
+    border: 1px solid black;
+    padding: 20px;
+}
+
+body {
+    background: #eeeeee;
+}
+
+#wrapper { 
+    width: 720px;
+    background: white; 
+    margin: auto;
+}
+
+img {
+    border-radius: 12px;
+}
+
+h2 {
+    border-left: 3px solid orange; 
+    padding-left: 5px;
+}
+
+a {
+    color: steelblue;
+}
+
+a:visited {
+    color: darkblue;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 0px;
+    }
